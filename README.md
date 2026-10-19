@@ -1,5 +1,5 @@
 # English
-you need to have the kandsky.py script on your calculator / pc
+you need to have the kandsky.py script on your calculator / pc found down below
 
 this python script is an upgrade of : https://github.com/Baguette365/space-invaders-numworks
 
@@ -49,6 +49,6 @@ pour exécuter ce fichier sur un ordinateur (windows, OSX(mac), linux) :
  - et vous devez disposer de la bibliothèque par défaut de python 3.x
 
 
-NESSECISTE le script kandsky
+il vous faut le script kandsky
 
-quand vous jouez sur le PC, allez dans l'onglet option, OS et clickez sur PC quand vous etes sur la feunetre de jeu
+quand vous jouez sur le PC, allez dans l'onglet option, OS et clickez sur PC quand vous etes sur la fenetre de jeu
